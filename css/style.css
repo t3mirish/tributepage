@@ -1,0 +1,12 @@
+body {
+  font-family: "Arial", Times New Roman;
+  background-color: gray; 
+  color: blue;
+}
+h1{
+  font-size: 50px;
+  color: green;
+}
+h3{
+  color: orange;
+}
